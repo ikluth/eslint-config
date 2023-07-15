@@ -1,20 +1,20 @@
 {
-  "name": "@fellipeutaka/eslint-config",
-  "version": "1.6.0",
+  "name": "@ikluth/eslint-config",
+  "version": "1.0.0",
   "description": "ESLint configuration",
   "private": false,
-  "homepage": "https://github.com/fellipeutaka/eslint-config",
+  "homepage": "https://github.com/ikluth/eslint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fellipeutaka/eslint-config.git"
+    "url": "https://github.com/ikluth/eslint-config.git"
   },
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "author": {
-    "name": "Fellipe Utaka",
-    "email": "fellipeutaka@gmail.com"
+    "name": "Sönke Kluth",
+    "email": "soenke.kluth@gmail.com"
   },
   "scripts": {
     "publish": "changeset publish",
