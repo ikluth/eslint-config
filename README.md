@@ -1,4 +1,4 @@
-# Fellipe Utaka ESLint config
+# iKluth ESLint config
 
 ## Whats included?
 
@@ -18,23 +18,23 @@
 
 ```bash
 # If you are using NPM
-$ npm i eslint @fellipeutaka/eslint-config -D
+$ npm i eslint @ikluth/eslint-config -D
 
 # If you are using Yarn
-$ yarn add eslint @fellipeutaka/eslint-config -D
+$ yarn add eslint @ikluth/eslint-config -D
 
 # If you are using PNPM
-$ pnpm i eslint @fellipeutaka/eslint-config -D
+$ pnpm i eslint @ikluth/eslint-config -D
 ```
 
 2. Create a `.eslintrc.json` file extending the configuration you want to use:
 
 ```json
 {
-  "extends": "@fellipeutaka/eslint-config/next"
-  // "extends": "@fellipeutaka/eslint-config/react"
-  // "extends": "@fellipeutaka/eslint-config/expo"
-  // "extends": "@fellipeutaka/eslint-config/node"
+  "extends": "@ikluth/eslint-config/next"
+  // "extends": "@ikluth/eslint-config/react"
+  // "extends": "@ikluth/eslint-config/expo"
+  // "extends": "@ikluth/eslint-config/node"
 }
 ```
 
